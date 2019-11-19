@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+# Here is a list of my favorite things:
+- Billie Eilish
+- Knitting
+- Disco dancing
+- Open Source
+- Learning Git and GitHub
